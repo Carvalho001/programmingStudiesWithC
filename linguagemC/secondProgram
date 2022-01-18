@@ -1,0 +1,6 @@
+#include <stdio.h> //includes the library
+
+int main(){ //Declare the main function
+
+    //Code to be executed by the main function
+}
