@@ -10,16 +10,18 @@ int main(){
     }
     */
 
-    int i ;
+    /*int i ;
     for(i = 2018; N!=i;){
     scanf("%d", &N);
 
     }
 
-    /*do{
+    */
+
+    do{
     scanf("%d", &N);
     }while(N!=2018);
 
-     */
+
 
 }
